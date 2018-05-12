@@ -1,0 +1,41 @@
+_repo: The-Garden-of-the-Plynck_16731
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Minard, Florence
+    gutenberg_agent_id: '6895'
+    url: http://www.gutenberg.org/2009/agents/6895
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baker, Karle Wilson
+    aliases:
+    - Baker, Thomas E., Mrs.
+    - Wilson, Karle
+    - Wilson, Karl
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '6894'
+    url: http://www.gutenberg.org/2009/agents/6894
+description: A series of adventures of a little girl called Sara who has learned to
+  "go inside her head and shut the doors". It deals with the garden she finds there,
+  and all of its wonders. Demonstrates the valuable skill of amusing yourself with
+  nothing more than your own imagination.
+gutenberg_issued: '2005-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Imagination -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: The Garden of the Plynck
+url: http://www.gutenberg.org/ebooks/16731
